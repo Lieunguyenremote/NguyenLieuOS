@@ -14,13 +14,13 @@ Become an AI-powered Remote Bookkeeper.
 - Claude Code
 ---
 ## Roadmap
-Phase 1
+### Phase 1
 - Learn Bookkeeping
-Phase 2
+### Phase 2
 - Build AI Systems
-Phase 3
+### Phase 3
 - Remote Career
-Phase 4
+### Phase 4
 - Multiple Income
 ---
 Built by Nguyen Lieu.
